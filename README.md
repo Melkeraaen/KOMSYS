@@ -1,3 +1,3 @@
 # KOMSYS
 
-# Kommuniserende Systemer Demonstrasjon
+Kommuniserende Systemer Demonstrasjon
